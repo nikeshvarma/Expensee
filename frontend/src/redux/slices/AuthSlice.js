@@ -1,8 +1,8 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-    auth: false,
-    authToken: null
+    auth: true,
+    authToken: '23ukl9kla390mdsd093lmn'
 }
 
 export const authSlice = createSlice({

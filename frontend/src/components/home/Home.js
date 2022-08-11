@@ -10,7 +10,9 @@ const Home = () => {
     console.log(authToken);
 
     return (
-        <div>Home</div>
+        <div>
+            <h1>Nikesh</h1>
+        </div>
     )
 }
 
